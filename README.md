@@ -4,6 +4,8 @@ This GitHub repository contains projects and exercises related to a variety of M
 
 - Traditional ML algorithms (PCA, Neural Nets, Random forests)
 
-- A simple RAG pipeline using Gemini LLM api.
+- Classification exercise using BERT
 
-- Exercises with the JAX library.
+- A simple RAG pipeline using Gemini LLM api
+
+- Exercises with the JAX library
