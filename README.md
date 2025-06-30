@@ -1,4 +1,4 @@
-This GitHub repository stores Jupyter notebook PDF files of short projects, assignments, and exercises related to a variety of ML related technologies and techniques for future reference. Projects exist in the following categories:
+This repository stores Jupyter notebook PDF files of short projects, assignments, and exercises I have completed related to a variety of ML related technologies and techniques for my future reference. Projects exist in the following categories:
 
 - Big data tools coursework (Cassandra, MongoDB, SQL, Spark, Neo4j)
 
