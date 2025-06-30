@@ -1,4 +1,4 @@
-This GitHub repository contains projects and exercises related to a variety of ML related technologies and techniques. Projects exist in the following categories:
+This GitHub repository contains short projects and exercises related to a variety of ML related technologies and techniques. Projects exist in the following categories:
 
 - Big data tools exercises (Cassandra, MongoDB, SQL, Spark, Neo4j)
 
